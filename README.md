@@ -8,7 +8,6 @@ Imagine you are developing an online marketplace where buyers and sellers need t
 - Save the data in mongodb.
 - send res success.
 
-
 # **How to Fork and Set Up Your Repository**
 
 ---
